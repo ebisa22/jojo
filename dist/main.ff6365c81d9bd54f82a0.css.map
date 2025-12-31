@@ -1,1 +1,0 @@
-{"version":3,"file":"main.ff6365c81d9bd54f82a0.css","mappings":"AAAA,KACI,wBACJ,CACA,GACI,SAAS,CACT,yBACJ","sources":["webpack://webpack_env/./src/styles/style.css"],"sourcesContent":["body{\n    background-color: lightblue;\n}\nh2{\n    color:red;\n    text-transform: capitalize;\n}\n "],"names":[],"ignoreList":[],"sourceRoot":""}
