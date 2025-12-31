@@ -11,7 +11,6 @@ module.exports = {
     filename: "[name].[contenthash].js", //content hash use hash and the hash changes if something in the module changes.
     assetModuleFilename: "[name][ext]", //keeps the same name for images when compiled from src to dist
     clean: true,
- 
   },
   plugins: [
     new HtmlWebpackPlugin({

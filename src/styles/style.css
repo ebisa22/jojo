@@ -1,8 +1,7 @@
 body{
-    background-color: lightblue;
+    background: rgb(193, 238, 238);
 }
 h2{
-    color:red;
-    text-transform: capitalize;
+     color: #333;
 }
  
